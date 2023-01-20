@@ -1,0 +1,14 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 21px;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-md: 246.5px;
+}
