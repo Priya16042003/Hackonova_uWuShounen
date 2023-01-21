@@ -2,162 +2,41 @@ body {
   margin: 0;
   line-height: normal;
 }
-.desktop-1-child {
-  top: 0;
-  left: 0;
-  border-radius: 0 0 var(--br-md) var(--br-md);
-  width: 1440px;
-  height: 595px;
-}
-
-.desktop-1-child,
-.go-green-logo-1,
-.go-green-pic-1 {
-  position: absolute;
-  object-fit: cover;
-}
-.go-green-pic-1 {
-  top: 618px;
-  left: 2px;
-  width: 1438px;
-  height: 476px;
-  opacity: 0.6;
-}
-.go-green-logo-1 {
-  top: 0;
-  left: 0;
-  width: 75px;
-  height: 62px;
-}
-.about-us,
-.go-green,
-.home,
-.inventory {
-  position: absolute;
-  font-family: var(--font-roboto);
-  color: var(--color-white);
-  text-align: center;
-  display: inline;
-}
-.go-green {
-  margin: 0;
-  top: 18px;
-  left: 105px;
-  font-size: 48px;
-  font-weight: 700;
-  width: 324px;
-  height: 67px;
-}
-.about-us,
-.home,
-.inventory {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: transparent;
-  top: 42px;
-  left: 914px;
-  font-size: var(--font-size-base);
+.about-us {
+  left: 283px;
   width: 107px;
-  height: 65px;
-  padding-bottom: 50px;
- 
 }
+.about-us,
 .home,
-.inventory {
-  left: 630px;
-  width: 75px;
-  
-}
-.inventory {
-  left: 752px;
-  width: 115px;
-  
-}
-.group-child {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 60px;
-  height: 60px;
-}
-.untitled-1-1-icon {
-  position: absolute;
-  top: 6px;
-  left: 14px;
-  width: 32px;
-  height: 49px;
-  object-fit: cover;
-}
-.ellipse-parent {
+.inventory,
+.loginsignup {
   cursor: pointer;
   border: 0;
   padding: 0;
   background-color: transparent;
   position: absolute;
-  top: 21px;
-  left: 1053px;
-  width: 60px;
-  height: 60px;
-}
-.go-green-logo-1-parent {
-  position: absolute;
-  top: 53px;
-  left: 160px;
-  width: 1113px;
-  height: 107px;
-}
-.this-platform-is {
-  margin: 0;
-  position: absolute;
-  top: 260px;
-  left: 255px;
-  font-size: inherit;
-  line-height: 50px;
-  font-weight: 600;
-  font-family: inherit;
-  display: inline-block;
-  width: 930px;
-  height: 257px;
-}
-.group-item {
-  position: absolute;
   top: 0;
-  left: 0;
-  border-radius: 50px;
-  width: 360px;
-  height: 100px;
-}
-.scan-qr {
-  position: absolute;
-  top: 27px;
-  left: 108px;
-  display: inline-block;
-  width: 143px;
-  height: 46px;
-}
-.vector-parent {
-  position: absolute;
-  top: 545px;
-  left: 540px;
-  width: 360px;
-  height: 100px;
-  text-align: left;
-  font-size: 35px;
-  color: var(--color-white);
+  font-size: var(--font-size-base);
   font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  height: 65px;
 }
-.desktop-1 {
+.loginsignup {
+  left: 420px;
+  width: 138px;
+}
+.home {
+  left: 0;
+  width: 75px;
+}
+.inventory {
+  left: 122px;
+  width: 115px;
+}
+.about-us-parent {
   position: relative;
-  background-color: var(--color-white);
   width: 100%;
-  height: 1024px;
-  overflow: hidden;
-  text-align: center;
-  font-size: 34px;
-  color: #07143f;
-  font-family: var(--font-poppins);
-}
-.logo{
-  display : inline-flex;
+  height: 65px;
 }

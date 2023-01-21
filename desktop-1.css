@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.about-us-pic1-1-icon2 {
+  position: absolute;
+  top: 192px;
+  left: 0;
+  width: 1440px;
+  height: 1046px;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.desktop-1-child,
+.go-green-logo-13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.desktop-1-child {
+  border-radius: var(--br-lg);
+  width: 1440px;
+  height: 340px;
+  top: -153px;
+left: 47px;
+}
+.go-green-logo-13 {
+  width: 72px;
+  height: 60px;
+  left: 34px;
+}
+.go3 {
+  color: var(--color-teal);
+}
+.green3 {
+  color: var(--color-turquoise);
+}
+.gogreen3 {
+  margin: 0;
+  top: 17px;
+  left: 101px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  text-align: left;
+  display: inline-block;
+  width: 313px;
+  height: 65px;
+}
+.about-us4,
+.gogreen3,
+.logo3 {
+  position: absolute;
+}
+.logo3 {
+  top: 13px;
+  left: 14px;
+  width: 414px;
+  height: 82px;
+}
+.about-us4 {
+  margin: 0;
+  top: 95px;
+  left: 549px;
+  font-size: var(--font-size-7xl);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 341px;
+  height: 65px;
+}
+.need-of-waste,
+.our-moto-is,
+.the-need-for {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.our-moto-is,
+.the-need-for,
+.waste-management-refers {
+  line-height: 38px;
+  font-weight: 600;
+  width: 835px;
+}
+.waste-management-refers {
+  top: 288px;
+  left: 160px;
+  height: 108px;
+}
+.waste-management-refers,
+.what-is-our,
+.what-is-waste {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.our-moto-is {
+  height: 150px;
+}
+.the-need-for {
+  top: 481px;
+  left: 445px;
+  height: 150px;
+}
+.our-moto-is {
+  top: 694px;
+  left: 160px;
+}
+.what-is-waste {
+  left: 160px;
+}
+.need-of-waste,
+.what-is-our,
+.what-is-waste {
+  font-size: var(--font-size-xl);
+  line-height: 117px;
+  font-weight: 700;
+  color: var(--color-turquoise);
+  width: 716px;
+  height: 85px;
+}
+.what-is-waste {
+  top: 203px;
+}
+.need-of-waste {
+  top: 396px;
+  left: 445px;
+}
+.what-is-our {
+  top: 609px;
+  left: 160px;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 871px;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 1440px;
+  height: 340px;
+  object-fit: cover;
+}
+.contact2 {
+  margin: 0;
+  position: absolute;
+  top: 887px;
+  left: 647px;
+  font-size: var(--font-size-3xl);
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 145px;
+  height: 48px;
+}
+.mahaddalkarostudentsfitaci5 {
+  display: block;
+}
+.mahaddalkarostudentsfitaci4 {
+  margin: 0;
+  position: absolute;
+  top: 935px;
+  left: 524px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  text-align: center;
+  display: inline-block;
+  width: 391px;
+  height: 57px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(--font-poppins);
+}

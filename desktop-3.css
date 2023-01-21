@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-3-child,
+.go-green-pic-1 {
+  position: absolute;
+  object-fit: cover;
+}
+.desktop-3-child {
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-xl) var(--br-xl);
+  width: 1440px;
+  height: 595px;
+  opacity: 0.5;
+  left: 47px;
+}
+.go-green-pic-1 {
+  top: 618px;
+  left: 2px;
+  width: 1438px;
+  height: 476px;
+  opacity: 0.6;
+}
+.about-us1 {
+  position: absolute;
+  left: 283px;
+  width: 107px;
+  height: 65px;
+}
+.about-us1,
+.home1,
+.loginsignup1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.loginsignup1 {
+  position: absolute;
+  left: 420px;
+  width: 138px;
+  height: 65px;
+}
+.home1 {
+  left: 0;
+  width: 75px;
+}
+.about-us-group,
+.home1,
+.inventory1 {
+  position: absolute;
+  height: 65px;
+}
+.inventory1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 122px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 115px;
+}
+.about-us-group {
+  top: 95px;
+  left: 791px;
+  width: 558px;
+}
+.this-platform-is {
+  margin: 0;
+  position: absolute;
+  top: 260px;
+  left: 255px;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 930px;
+  height: 257px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  width: 360px;
+  height: 100px;
+}
+.scan-qr {
+  position: absolute;
+  top: 27px;
+  left: 108px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  width: 143px;
+  height: 46px;
+}
+.vector-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 545px;
+  left: 540px;
+  width: 360px;
+  height: 100px;
+}
+.go-green-logo-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 72px;
+  height: 60px;
+  object-fit: cover;
+}
+.go {
+  color: var(--color-teal);
+}
+.green {
+  color: var(--color-turquoise);
+}
+.gogreen,
+.logo {
+  position: absolute;
+}
+.gogreen {
+  margin: 0;
+  top: 17px;
+  left: 101px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  text-align: left;
+  display: inline-block;
+  width: 313px;
+  height: 65px;
+}
+.logo {
+  top: 45px;
+  left: 76px;
+  width: 414px;
+  height: 82px;
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 34px;
+  color: var(--color-gray-400);
+  font-family: var(--font-poppins);
+}

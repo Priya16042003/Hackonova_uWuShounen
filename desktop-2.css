@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.about-us-pic1-1-icon,
+.desktop-2-child {
+  position: absolute;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.about-us-pic1-1-icon {
+  width: 101.39%;
+  top: 216px;
+  right: -1.39%;
+  height: 1040px;
+  opacity: 0.3;
+}
+.desktop-2-child {
+  width: 100%;
+  top: 843px;
+  right: 0;
+  border-radius: var(--br-lg);
+  height: 340px;
+  top: -181px;
+}
+.baradiavinu645studentsfitac {
+  display: block;
+}
+.contact,
+.mahaddalkarostudentsfitaci {
+  margin: 0;
+  position: absolute;
+  display: inline-block;
+}
+.mahaddalkarostudentsfitaci {
+  width: 27.15%;
+  top: 924px;
+  left: 38.06%;
+  height: 57px;
+}
+.contact {
+  width: 10.07%;
+  top: 858px;
+  left: 44.93%;
+  font-size: var(--font-size-3xl);
+  font-weight: 700;
+  color: var(--color-white);
+  text-align: left;
+  height: 48px;
+}
+.desktop-2-item,
+.go-green-logo-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.desktop-2-item {
+  width: 100%;
+  right: 0;
+  border-radius: var(--br-lg);
+  max-width: 100%;
+  overflow: hidden;
+  height: 341px;
+  top: 873px;
+}
+.go-green-logo-11 {
+  width: 72px;
+  height: 60px;
+}
+.go1 {
+  color: var(--color-teal);
+}
+.green1 {
+  color: var(--color-turquoise);
+}
+.gogreen1 {
+  margin: 0;
+  position: absolute;
+  top: 17px;
+  left: 101px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  text-align: left;
+  display: inline-block;
+  width: 313px;
+  height: 65px;
+}
+.logo1 {
+  position: absolute;
+  top: 16px;
+  left: 14px;
+  width: 414px;
+  height: 82px;
+}
+.about-us2 {
+  left: 283px;
+  width: 107px;
+}
+.about-us2,
+.home2,
+.inventory2,
+.loginsignup2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  height: 65px;
+}
+.loginsignup2 {
+  left: 420px;
+  width: 138px;
+}
+.home2 {
+  left: 0;
+  width: 75px;
+}
+.inventory2 {
+  left: 122px;
+  width: 115px;
+}
+.about-us-container {
+  position: absolute;
+  top: 33px;
+  left: 802px;
+  width: 558px;
+  height: 65px;
+}
+.group-item {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 295px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-100);
+  height: 590px;
+}
+.group-inner,
+.rectangle-input {
+  border: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  width: 84.05%;
+  top: calc(50% - 245px);
+  right: 7.87%;
+  left: 8.08%;
+  border-radius: var(--br-2xs);
+  height: 100px;
+}
+.rectangle-input {
+  top: calc(50% - 121px);
+}
+.e-mail {
+  font-size: var(--font-size-6xl);
+  width: 38.79%;
+  top: calc(50% - 229px);
+  left: 10.34%;
+  color: var(--color-gray-300);
+  height: 62px;
+}
+.dont-have-an,
+.e-mail,
+.password {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  font-family: var(--font-roboto);
+  text-align: left;
+  display: inline-block;
+}
+.password {
+  font-size: var(--font-size-6xl);
+  width: 38.79%;
+  top: calc(50% - 102px);
+  left: 10.34%;
+  color: var(--color-gray-300);
+  height: 62px;
+}
+.dont-have-an {
+  cursor: pointer;
+  padding: 0;
+  width: 42.13%;
+  top: calc(50% + 5px);
+  left: 8.08%;
+  font-size: 30px;
+  color: #3f0711;
+  height: 57px;
+}
+.rectangle-parent {
+  position: absolute;
+  width: 64.44%;
+  top: calc(50% - 287.5px);
+  right: 17.85%;
+  left: 17.71%;
+  height: 590px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1027px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-400);
+  font-family: var(--font-roboto);
+}

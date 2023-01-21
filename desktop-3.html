@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-3.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap"
+    />
+  </head>
+  <body>
+    <main class="desktop-3">
+      <img class="desktop-3-child" alt="" src="public/rectangle-1@2x.png" /><img
+        class="go-green-pic-1"
+        alt=""
+        src="public/go-green-pic-1@2x.png"
+      />
+      <nav class="about-us-group">
+        <button class="about-us1" id="aBOUTUS">ABOUT US</button
+        ><button class="loginsignup1" id="loginsignup">Login/signup</button
+        ><button class="home1">HOME</button
+        ><button class="inventory1">INVENTORY</button>
+      </nav>
+      <h2 class="this-platform-is">
+        This platform is to help individuals/companies to manage waste by
+        suggesting proper ways of disposal or recycling. Thus, contributing to
+        good of mother earth.
+      </h2>
+      <button class="vector-parent" onclick="window.location.href = 's.html';">
+        <img class="group-child" alt="" src="public/rectangle-4.svg" /><b
+          class="scan-qr"
+          >Scan QR</b
+        >
+      </button>
+      <nav class="logo">
+        <img
+          class="go-green-logo-1"
+          alt=""
+          src="public/go-green-logo-1@2x.png"
+        />
+        <h1 class="gogreen">
+          <span class="go">Go</span><span class="green">Green</span>
+        </h1>
+      </nav>
+    </main>
+
+    <script>
+      var aBOUTUS = document.getElementById("aBOUTUS");
+      if (aBOUTUS) {
+        aBOUTUS.addEventListener("click", function (e) {
+          window.location.href = "./desktop-1.html";
+        });
+      }
+      
+      var loginsignup = document.getElementById("loginsignup");
+      if (loginsignup) {
+        loginsignup.addEventListener("click", function (e) {
+          window.location.href = "./desktop-2.html";
+        });
+      }
+      </script>
+  </body>
+</html>

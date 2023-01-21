@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-2.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-2">
+      <img
+        class="about-us-pic1-1-icon"
+        alt=""
+        src="public/about-us-pic1-1@2x.png"
+      /><img class="desktop-2-child" alt="" src="public/rectangle-2@2x.png" />
+      <p class="mahaddalkarostudentsfitaci">
+        <span class="baradiavinu645studentsfitac"
+          >mahaddalkaro@student.sfit.ac.in</span
+        ><span class="baradiavinu645studentsfitac"
+          >baradiavinu645@student.sfit.ac.in</span
+        >
+      </p>
+      <p class="contact">Contact:</p>
+      <img class="desktop-2-item" alt="" src="public/rectangle-11@2x.png" />
+      <nav class="logo1">
+        <img
+          class="go-green-logo-11"
+          alt=""
+          src="public/go-green-logo-1@2x.png"
+        />
+        <h1 class="gogreen1">
+          <span class="go1">Go</span><span class="green1">Green</span>
+        </h1>
+      </nav>
+      <nav class="about-us-container">
+        <button class="about-us2" id="aBOUTUS">ABOUT US</button
+        ><button class="loginsignup2">Login/signup</button
+        ><button class="home2" id="hOME">HOME</button
+        ><button class="inventory2">INVENTORY</button>
+      </nav>
+      <div class="rectangle-parent">
+        <div class="group-item"></div>
+        <input class="group-inner" type="text" /><input
+          class="rectangle-input"
+          type="text"
+        /><textarea class="e-mail">E-mail:</textarea
+        ><textarea class="password">Password:</textarea
+        ><button class="dont-have-an" id="dontHaveAn">
+          Don’t have an account?
+        </button>
+      </div>
+    </div>
+
+    <script>
+      var aBOUTUS = document.getElementById("aBOUTUS");
+      if (aBOUTUS) {
+        aBOUTUS.addEventListener("click", function (e) {
+          window.location.href = "./desktop-1.html";
+        });
+      }
+      
+      var hOME = document.getElementById("hOME");
+      if (hOME) {
+        hOME.addEventListener("click", function (e) {
+          window.location.href = "./desktop-3.html";
+        });
+      }
+      
+      var dontHaveAn = document.getElementById("dontHaveAn");
+      if (dontHaveAn) {
+        dontHaveAn.addEventListener("click", function (e) {
+          window.location.href = "./desktop-4.html";
+        });
+      }
+      </script>
+  </body>
+</html>
